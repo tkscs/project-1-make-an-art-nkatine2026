@@ -8,11 +8,11 @@ for i in range(n):
     turtle.right(angle)
 for i in range(1):
     turtle.right(b)
-    turtle.forward(2*b)
+    turtle.forward(230)
     turtle.right(2*b)
-    turtle.forward(2*b)
+    turtle.forward(115)
     turtle.right(b)
-    turtle.forward(2*b)
+    turtle.forward(115)
     turtle.right(2*b)
-    turtle.forward(4*b)
-turtle.exitonclick
+    turtle.forward(230)
+turtle.exitonclick()
